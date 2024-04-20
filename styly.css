@@ -1,0 +1,6 @@
+p {margin-left: 400px;margin-right: 400px; font-size: larger;}
+h1 {color: #000000; font-family: "Times New Roman", Times, serif;}
+h2 {color: black; font-family: "Times New Roman", Times, serif; margin-left: 400px;margin-right: 400px;}
+.imgmiddle {display: block; margin-left: auto; margin-right: auto;}
+a:hover {color:blue}
+.srovnani {display: flex; align-items: start;}
